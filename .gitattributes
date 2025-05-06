@@ -1,3 +1,5 @@
+fordy/Fordyv4a.rule filter=lfs diff=lfs merge=lfs -text
+fordy/Fordyv4b.rule filter=lfs diff=lfs merge=lfs -text
 MISC/omgwtfbbq.rule filter=lfs diff=lfs merge=lfs -text
 MISC/expanded-cutb-clean.rule.gz filter=lfs diff=lfs merge=lfs -text
 korelogic/KoreLogicRulesAppend6NumbersSpecial.rule.gz filter=lfs diff=lfs merge=lfs -text
