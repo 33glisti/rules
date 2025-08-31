@@ -5,7 +5,7 @@ An updated, curated collection of Hashcat rules for cracking complex passwords.
   <img src="https://i.ibb.co/GfnZBYnd/benchmark-rules.webp">
 </div>
 
-> *Benchmarks credit: A1191*
+> *Benchmarks credit: A1131*
 
 ## 🤝 Contributing
 Simply fork the repo, commit your changes, and open a PR.
