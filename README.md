@@ -1,9 +1,7 @@
 # Hashcat Rules Collection
 An updated, curated collection of Hashcat rules for cracking complex passwords.
 
-<div align="center">
-  <img src="https://i.ibb.co/GfnZBYnd/benchmark-rules.webp">
-</div>
+[![Hashcat-rules-benchmark-chart.png](https://i.postimg.cc/25zNPYDn/Hashcat-rules-benchmark-chart.png)](https://postimg.cc/mP6nH0hr)
 
 > *Benchmarks credit: A1131*
 
