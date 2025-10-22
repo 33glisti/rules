@@ -1,3 +1,2 @@
-# Purge numbers and special characters and lowercase the rest of password  (email) candidate. Rule to stake with domains rules in format 123@domain.com on standard wordlists
-
+# Purge numbers and special characters and lowercase the rest of password
 l@0@1@2@3@4@5@6@7@8@9@!@#@$@%@&@^@*@(@)@=@+@:@/@\@.@,@?@|@\@?
